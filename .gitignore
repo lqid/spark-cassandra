@@ -1,0 +1,31 @@
+# IntelliJ
+.idea/
+*.eml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.metadata
+.settings/
+local.properties
+
+# Maven, etc.
+log/
+out/
+target/
+project/
+
+# General
+*.pyc
+*~
+*.bak
+*.sw[o,p]
+*.tmp
+.DS_Store
+Thumbs.db
+src/main/java/
+src/main/resources/
+src/main/scala-2.11/
+src/test/
